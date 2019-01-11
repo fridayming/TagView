@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TagView</string>
+    <item name="tag_key_data" type="id"/>
+    <item name="tag_key_position" type="id"/>
+</resources>
